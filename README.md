@@ -1,15 +1,11 @@
-# Full-Stack Web Developer Nanodegree
+# Movie Trailer Website: Fresh Tomatoes
 
-## Projects:
-- **p1**: Movie Trailer Website
-- **p2**: Tournament Results
-- **p3**: Item Catalog
-- **p4**: Conference Organization App
-- **p5**: Linux-based Server Configuration
+by Allan Reyes, in fulfillment of Udacity's [Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004)
 
-## Courses:
-- Programming Foundations with Python
-- Intro to Relational Databases
-- Full Stack Foundations
-- Developing Scalable Apps with Python
-- Linux Basics for Web Developers
+### About
+
+This project provides a simple server-side script to generate a website of movie trailers from a CSV data file.
+
+### How to run
+
+To run the script, clone this repository directory and run `fresh_tomatoes.py`.  You can view the page by opening `fresh_tomatoes.html`.
